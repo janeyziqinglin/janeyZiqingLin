@@ -1,7 +1,16 @@
 [![MasterHead](https://scitechdaily.com/images/Quantum-Computer-Code-Concept.gif)](https://Janeyziqinglin.io)
 <h1 align="center">Hi 👋, I'm Ziqing Lin (Janey)</h1>
-<h3 align="center">A passionate master student in computer science</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+
+<div style="display: flex; align-items: center;">
+  <h3 style="font-weight: bold; margin-right: 5px;">A passionate master student in computer science</h3>
+  <p style="font-size: 80%;">I have gained extensive experience in developing full-stack web applications and working with various technologies. With a strong foundation in computer science and hands-on experience in developing full-stack applications, I am eager to apply my skills and knowledge to new and exciting projects in the field. I thrive in collaborative environments, and I am always enthusiastic about learning and adopting new technologies to enhance my expertise further.</p>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div style="width: 300px; text-align: right;">
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+  </div>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janeyziqinglin&label=Profile%20views&color=0e75b6&style=flat" alt="janeyziqinglin" /> </p>
 
