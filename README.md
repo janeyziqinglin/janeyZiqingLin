@@ -40,7 +40,7 @@
 </ul>
 <h3>SocialSphere (Social media MERN Stack)</h3>
 <ul>
-  <li><a [href="https://github.com"](https://github.com/janeyziqinglin/shopSphere-backend.git)>GitHub back-end</a> </li>
+  <li><a href="https://github.com/janeyziqinglin/shopSphere-backend.git">GitHub back-end</a> </li>
   <li>Designed a MERN stack (MongoDB, Express.js, React, Node.js) social media platform for content sharing.</li>
   <li>Built the backend using Node.js, Express, MongoDB to handle user registration, login, and friend-related operations.</li>
   <li>Add authentication and authorization using JSON Web Tokens (JWT) to restrict access to friend-related actions.</li>
@@ -48,12 +48,12 @@
 </ul>
 <h3>Stockmaster (Inventory Management MERN Stack)</h3>
 <ul>
-  <li><a href="[https://github.com](https://github.com/janeyziqinglin/shopSphere-frontend-new.git)">GitHub front-end</a> </li>
+  <li><a href="https://github.com/janeyziqinglin/shopSphere-frontend-new.git">GitHub front-end</a> </li>
   <li>Developed a MERN stack inventory management system for efficient inventory control and user profile management.</li>
   <li>Built the inventory backend using Node.js, Express, MongoDB, and implemented JWT-based authentication.</li>
   <li>Designed the React front-end for state management and integrated a Cloud-based media management system.</li>
 </ul>
 
-[GitHub](https://github.com) &#124; [Website](https://shopsonic-admin2-efbb7f026554.herokuapp.com/login)
+
 
 
