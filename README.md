@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **janeyziqinglin@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/64b758e92e8231f2cdc3e5b9](https://app.luminpdf.com/viewer/64b758e92e8231f2cdc3e5b9)
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026](https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
