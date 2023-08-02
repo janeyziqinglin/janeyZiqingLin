@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Shopsonic (E-commerce Full Stack)**
 
-- 📫 How to reach me **janeyziqinglin@gmail.com**
+- 📫 How to reach me **email:janeyziqinglin@gmail.com**
 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026](https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026)
 
