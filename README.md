@@ -38,7 +38,7 @@
   <li>Built role-based authentication and authorization using Spring Security to enforce access control based on user roles.</li>
   <li>Developed front-end shopping cart features using HTML, JavaScript, Bootstrap, and jQuery, integrating PayPal Checkout API for seamless payment processing.</li>
 </ul>
-<h3>SocialSphere (Social media MERN Stack)</h3>
+<h3>SocialSphere (Social media MERN Stack) </h3>
 <ul>
   <li><a href="https://github.com/janeyziqinglin/shopSphere-backend.git">GitHub back-end</a> </li>
   <li>Designed a MERN stack (MongoDB, Express.js, React, Node.js) social media platform for content sharing.</li>
