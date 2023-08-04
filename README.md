@@ -32,7 +32,7 @@
 <h3>Shopsonic (E-commerce Full Stack) </h3>
 
 <ul>
-  <li><a href="https://github.com">GitHub</a> | <a href="https://shopsonic-admin2-efbb7f026554.herokuapp.com/login">Backend Website</a>| <a href=https://shopsonic-fe2-7a5a018f78cb.herokuapp.com/">Frontend Website</a></li>
+  <li><a href="https://github.com">GitHub</a> | <a href="https://shopsonic-admin2-efbb7f026554.herokuapp.com/login">Backend Website</a>| <a href=https://shopsonic-fe2-7a5a018f78cb.herokuapp.com">Frontend Website</a></li>
   <li>Developed a Java full-stack shopping website using Spring Boot, Thymeleaf, Bootstrap, jQuery, and MySQL database.</li>
   <li>Built the Admin back end for users, products, customers, orders management using Spring Boot.</li>
   <li>Built role-based authentication and authorization using Spring Security to enforce access control based on user roles.</li>
