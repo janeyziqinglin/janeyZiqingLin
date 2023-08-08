@@ -46,7 +46,7 @@
   <li>Add authentication and authorization using JSON Web Tokens (JWT) to restrict access to friend-related actions.</li>
   <li>Built a responsive front-end homepage using React and incorporated React Dropzone for image uploads.</li>
 </ul>
-<h3>Stockmaster (Inventory Management MERN Stack)</h3>
+<h3>Stockmaster (Inventory Management MERN Stack) </h3>
 <ul>
   <li><a href="https://github.com/janeyziqinglin/shopSphere-frontend-new.git">GitHub front-end</a> </li>
   <li>Developed a MERN stack inventory management system for efficient inventory control and user profile management.</li>
