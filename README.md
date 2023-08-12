@@ -37,7 +37,7 @@
   <li>Developed a Java full-stack shopping website using Spring Boot, Thymeleaf, Bootstrap, jQuery, and MySQL database.</li>
   <li>Built the Admin back end for users, products, customers, orders management using Spring Boot.</li>
   <li>Built role-based authentication and authorization using Spring Security to enforce access control based on user roles.</li>
-  <li>Developed front-end shopping cart features using HTML, JavaScript, Bootstrap, and jQuery, integrating PayPal Checkout API for seamless payment processing.</li>
+  <li>Developed front end shopping cart features using HTML, JavaScript, Bootstrap, and jQuery, integrating PayPal Checkout API for seamless payment processing.</li>
 </ul>
 <h3>SocialSphere (Social media MERN Stack) </h3>
 <ul>
@@ -45,14 +45,14 @@
   <li>Designed a MERN stack (MongoDB, Express.js, React, Node.js) social media platform for content sharing.</li>
   <li>Built the backend using Node.js, Express, MongoDB to handle user registration, login, and friend-related operations.</li>
   <li>Add authentication and authorization using JSON Web Tokens (JWT) to restrict access to friend-related actions.</li>
-  <li>Built a responsive front-end homepage using React and incorporated React Dropzone for image uploads.</li>
+  <li>Built a responsive front end homepage using React and incorporated React Dropzone for image uploads.</li>
 </ul>
 <h3>Stockmaster (Inventory Management MERN Stack) </h3>
 <ul>
-  <li><a href="https://github.com/janeyziqinglin/shopSphere-frontend-new.git">GitHub front-end</a> </li>
+  <li><a href="https://github.com/janeyziqinglin/shopSphere-frontend-new.git">GitHub front end</a> </li>
   <li>Developed a MERN stack inventory management system for efficient inventory control and user profile management.</li>
   <li>Built the inventory backend using Node.js, Express, MongoDB, and implemented JWT-based authentication.</li>
-  <li>Designed the React front-end for state management and integrated a Cloud-based media management system.</li>
+  <li>Designed the React front end for state management and integrated a Cloud-based media management system.</li>
 </ul>
 <h3>OfferOptics (Android Job Management App)</h3>
 <ul>
