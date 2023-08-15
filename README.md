@@ -53,7 +53,7 @@
   <li>Built the inventory backend using Node.js, Express, MongoDB, and implemented JWT-based authentication.</li>
   <li>Designed the React front end for state management and integrated a Cloud-based media management system.</li>
 </ul>
-<h3>OfferOptics (Android Job Management App)</h3>
+<h3>OfferOptics (Android Job Management App) </h3>
 <ul>
   <li><a href="https://github.com/janeyziqinglin/OfferOptics/tree/dev#offeroptics-your-ultimate-job-offer-comparison-app">GitHub </a> </li>
   <li>Developed an Android mobile app using Java and Kotlin, featuring efficient inventory control and offers management.</li>
