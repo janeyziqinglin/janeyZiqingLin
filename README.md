@@ -38,7 +38,7 @@
   <li>Built role-based authentication and authorization using Spring Security to enforce access control based on user roles.</li>
   <li>Developed front end shopping cart features using HTML, JavaScript, Bootstrap, and jQuery, integrating PayPal Checkout API for seamless payment processing.</li>
 </ul>
-<h3>SocialSphere (Social media MERN Stack) </h3>
+<h3> SocialSphere (Social media MERN Stack) </h3>
 <ul>
   <li><a href="https://github.com/janeyziqinglin/shopSphere-backend.git">GitHub back-end</a> </li>
   <li>Designed a MERN stack (MongoDB, Express.js, React, Node.js) social media platform for content sharing.</li>
@@ -46,14 +46,14 @@
   <li>Add authentication and authorization using JSON Web Tokens (JWT) to restrict access to friend-related actions.</li>
   <li>Built a responsive front end homepage using React and incorporated React Dropzone for image uploads.</li>
 </ul>
-<h3>Stockmaster (Inventory Management MERN Stack) </h3>
+<h3> Stockmaster (Inventory Management MERN Stack) </h3>
 <ul>
   <li><a href="https://github.com/janeyziqinglin/shopSphere-frontend-new.git">GitHub front end</a> </li>
   <li>Developed a MERN stack inventory management system for efficient inventory control and user profile management.</li>
   <li>Built the inventory backend using Node.js, Express, MongoDB, and implemented JWT-based authentication.</li>
   <li>Designed the React front end for state management and integrated a Cloud-based media management system.</li>
 </ul>
-<h3>OfferOptics (Android Job Inventory App) </h3>
+<h3> OfferOptics (Android Job Inventory App) </h3>
 <ul>
   <li><a href="https://github.com/janeyziqinglin/OfferOptics/tree/dev#offeroptics-your-ultimate-job-offer-comparison-app">GitHub </a> </li>
   <li>Developed an Android mobile app using Java and Kotlin, featuring efficient inventory control and offers management.</li>
