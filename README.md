@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences(Resume) [https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026](https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026)
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left"> Connect with me </h3>
 <p align="left">
 <a href="https://linkedin.com/in/lin-janey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin-janey" height="30" width="40" /></a>
 </p>
