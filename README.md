@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <div style="width: 300px; text-align: right;">
+  <div style="width: 300px; text-align:right;">
     <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
   </div>
 </div>
