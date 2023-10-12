@@ -1,5 +1,5 @@
 [![MasterHead](https://scitechdaily.com/images/Quantum-Computer-Code-Concept.gif)](https://Janeyziqinglin.io)
-<h1 align="center"> Hi👋, I'm Janey (Ziqing Lin) </h1>
+<h1 align="center"> Hi👋, I'm Janey (Ziqing Lin)</h1>
 
 <div style="display: flex; align-items: center;">
   <h3 style="font-weight: bold; margin-right: 5px;">A passionate master student in CS </h3>
