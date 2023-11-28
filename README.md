@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janeyziqinglin&label=Profile%20views&color=0e75b6&style=flat" alt="janeyziqinglin" /> </p>
 
 
-- 📫 How to reach  me:**janeyziqinglin@gmail.com**
+- 📫 How to reach me:**janeyziqinglin@gmail.com**
 
 - 📄 Know about my experiences(Resume)[https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026](https://app.luminpdf.com/viewer/64b7683a2e8231f2cdc53026)
 
