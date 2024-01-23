@@ -61,5 +61,18 @@
   <li>Designed a customizable job offer comparison feature, allowing users to compare offers with adjustable weights.</li>
 </ul>
 
+<h3> MedTumorClassifier (Convolutional Neural Networks Project) </h3>
+<ul>
+  <li><a href="https://github.com/janeyziqinglin/equivariant_neural_network:main">GitHub </a> </li>
+  <li>Processed over 200,000 medical tumor dataset for image classification and achieved 90% accuracy</li>
+  <li>Implemented data augmentation to increase the size of training dataset for improved model generalization using pandas and SciPy</li>
+  <li>Built a detection model using Convolutional Neural Networks (CNN) and Graph Convolutional Neural Networks (GCNN) model using Tensorflow</li>
+</ul>
+
+
+
+
+
+
 
 
